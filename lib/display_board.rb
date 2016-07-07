@@ -19,12 +19,6 @@ display_board(board)
 board = ["0", " ", " ", " ", " ", " ", " ", " ", " "]
 display_board(board)
 
-board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
-display_board(board)
-
-board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
-display_board(board)
-
 board = [" ", " ", " ", " ", " ", " ", "0", "0", "0"]
 display_board(board)
 
@@ -34,5 +28,14 @@ display_board(board)
 board = [" ", " ", "0", " ", "0", " ", "0", " ", " "]
 display_board(board)
 
+board = ["X", "X", "X", "X", "O", "O", "X", "O", "O"]
+display_board(board)
+
 board = ["0", " ", " ", " ", "X", " ", " ", " ", " "]
+display_board(board)
+
+board = ["O", "O", "O", "O", "O", "O", "O", "O", "O"]
+display_board(board)
+
+board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
 display_board(board)
